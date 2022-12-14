@@ -15,6 +15,7 @@ develop-eggs
 
 # Installer logs
 pip-log.txt
+tk-metadata/install_complete
 
 # Unit test / coverage reports
 .coverage
